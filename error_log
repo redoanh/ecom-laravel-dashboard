@@ -1,0 +1,5 @@
+[13-Jul-2024 09:25:19 UTC] PHP Fatal error:  Out of memory (allocated 2097152 bytes) (tried to allocate 4096 bytes) in D:\webserver\www\student\round56\redoan\ecom\laravel ecom\vendor\composer\autoload_static.php on line 1898
+[13-Jul-2024 09:25:19 UTC] PHP Fatal error:  Out of memory (allocated 2097152 bytes) (tried to allocate 4096 bytes) in D:\webserver\www\student\round56\redoan\ecom\laravel ecom\vendor\composer\autoload_static.php on line 1898
+[13-Jul-2024 09:25:26 UTC] PHP Fatal error:  Out of memory (allocated 6291456 bytes) (tried to allocate 327680 bytes) in D:\webserver\www\student\round56\redoan\ecom\laravel ecom\vendor\symfony\http-foundation\Request.php on line 156
+[13-Jul-2024 09:25:26 UTC] PHP Fatal error:  Out of memory (allocated 6291456 bytes) (tried to allocate 327680 bytes) in D:\webserver\www\student\round56\redoan\ecom\laravel ecom\vendor\symfony\http-foundation\Request.php on line 156
+[15-Jul-2024 11:54:44 UTC] PHP Fatal error:  Out of memory (allocated 2097152 bytes) (tried to allocate 4096 bytes) in D:\webserver\www\student\round56\redoan\ecom\laravel ecom\vendor\composer\autoload_static.php on line 1898
